@@ -1,1 +1,0 @@
-# Periodic-tasks-in-ZephyrRTOS
